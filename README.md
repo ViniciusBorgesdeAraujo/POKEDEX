@@ -2,8 +2,6 @@
 
 Bem-vindo à Pokédex, uma aplicação web interativa que permite pesquisar, navegar e explorar informações sobre os Pokémon do universo Pokémon! 🎮✨
 
-Veja como ficou: [Pokédex Demo](https://pokemonnpokedex.netlify.app)
-
 ![image](https://github.com/user-attachments/assets/1cb59423-26a7-4dbf-a414-c5b7a95ea760)
 
 
